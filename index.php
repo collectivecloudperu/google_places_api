@@ -19,9 +19,9 @@
 
 					<h5>Elige una categoría:</h5>
 
-					  <a href="cajeros/" target="_blank" class="btn btn-primary">Cajeros</a>
-					  <a href="escuelas/" target="_blank" class="btn btn-primary">Escuelas</a>
-					  <a href="restaurantes/" target="_blank" class="btn btn-primary">Restaurantes</a>
+					  <a href="https://collectivecloudperu.com/blog/tutos/demos/google_places_api/cajeros/" target="_blank" class="btn btn-primary">Cajeros</a>
+					  <a href="https://collectivecloudperu.com/blog/tutos/demos/google_places_api/escuelas/" target="_blank" class="btn btn-primary">Escuelas</a>
+					  <a href="https://collectivecloudperu.com/blog/tutos/demos/google_places_api/restaurantes/" target="_blank" class="btn btn-primary">Restaurantes</a>
 
 				</div>
 
